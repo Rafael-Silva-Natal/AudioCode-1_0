@@ -1,0 +1,63 @@
+
+#teclado{
+    width: 275px;
+    height: 160;
+    margin-top: 500px;
+    margin-left: 400px;
+      /* Arredonda os cantos */
+    border-radius: 15px; /* Ajuste o valor conforme necessário para mais ou menos arredondamento */
+      /* Adiciona uma borda */
+    border: 5px solid #390b5f; /* Substitua #000 pela cor desejada para a borda */
+      /* Define outras propriedades de layout, se necessário */
+    background-color: #b179df;
+    
+    
+    }
+       
+     #audioButton1,
+     #audioButton2,
+     #audioButton3,
+     #audioButton4,
+     #audioButton5,
+     #audioButton6,
+     #audioButton7,
+     #audioButton8{
+    
+      width: 30px;
+      height: 50px;
+      border-radius: 10px;
+      color: white;
+     margin-top: 3px;
+      margin-bottom: 3xp;
+     text-shadow: 1px 1px ;
+     
+    
+     }
+     #audioButton1{
+      background-color: brown;
+      margin-left: 3px;
+     border-color: rgb(90, 32, 32);
+      padding: 1px;
+     }
+     #audioButton2{
+      background-color: green;
+     }
+     #audioButton3{
+      background-color: orange;
+     }
+     #audioButton4{
+      background-color: blue;
+     }
+     #audioButton5{
+      background-color: yellow;
+     }
+     #audioButton6{
+      background-color: violet;
+     }
+     #audioButton7{
+      background-color: red;
+     }
+     #audioButton8{
+      background-color: rgb(94, 60, 60);
+     }
+    
